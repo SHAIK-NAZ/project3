@@ -1,0 +1,5 @@
+list_1 = [1, 'naz', 'nagma']
+list_2 = [3, 4, 5, 'shaik']
+
+list_joined = list_1 + list_2
+print(list_joined)
